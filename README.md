@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rajat Jamgade</h1>
-<h3 align="center">A skilled web developer specializing in <strong>React.js, Tailwind CSS, HTML, CSS, and JavaScript.</strong></h3>
+<h3 align="center">A skilled web developer specializing in <b>React.js, Tailwind CSS, HTML, CSS, and JavaScript.</b></h3>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
