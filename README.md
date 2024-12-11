@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rajat Jamgade</h1>
 <h3 align="center">A skilled web developer specializing in React.js, Tailwind CSS, HTML, CSS, and JavaScript.</h3>
 
-<h3 align="left">Languages and Tools:</h3>
+<!--<h3 align="left">Languages and Tools:</h3>-->
 <p align="left"> 
 
 <!-- MERN STACK -->
