@@ -1,24 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rajat Jamgade</h1>
 <h3 align="center">A skilled web developer specializing in <strong>React.js, Tailwind CSS, HTML, CSS, and JavaScript.</strong></h3>
 
-- 🔭 I’m currently working on **[Space Tourisum](https://space-tourism-rj.vercel.app/)**
-
-- 🌱 I’m currently learning **MERN STACK**
-
-- 👯 I’m looking to **Collaborate** on **[MyShow](https://my-show-rj.vercel.app/), [Weatherr](https://weatherr-rj.vercel.app/)**
-
-- 👨‍💻 My **Personal Portfolio** is here...!!! **[Reactfolio](https://reactfolio-rj.vercel.app/)**
-
-- 💼 Currently looking for a **frontend job** in **Pune**. 
-
-- 💬 With outdated technology **holding you back**, it's **time for a change.** 
-
-- 📫 How to reach me **[rajatjamgade00@gmail.com](mailto:rajatjamgade00@gmail.com)**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/rajat_j" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="rajat_j" height="30" width="40" /></a><a href="https://linkedin.com/in/rajat-jamgade-4b3a85209/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rajat-jamgade-4b3a85209/" height="30" width="40" /></a></p>
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
 
@@ -44,6 +26,24 @@
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
 </p>
+
+- 🔭 I’m currently working on **[Space Tourisum](https://space-tourism-rj.vercel.app/)**
+
+- 🌱 I’m currently learning **MERN STACK**
+
+- 👯 I’m looking to **Collaborate** on **[MyShow](https://my-show-rj.vercel.app/), [Weatherr](https://weatherr-rj.vercel.app/)**
+
+- 👨‍💻 My **Personal Portfolio** is here...!!! **[Reactfolio](https://reactfolio-rj.vercel.app/)**
+
+- 💼 Currently looking for a **frontend job** in **Pune**. 
+
+- 💬 With outdated technology **holding you back**, it's **time for a change.** 
+
+- 📫 How to reach me **[rajatjamgade00@gmail.com](mailto:rajatjamgade00@gmail.com)**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://codepen.io/rajat_j" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="rajat_j" height="30" width="40" /></a><a href="https://linkedin.com/in/rajat-jamgade-4b3a85209/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rajat-jamgade-4b3a85209/" height="30" width="40" /></a></p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rajatj00&show_icons=true&locale=en&layout=compact" alt="rajatj00" /></p>
 
